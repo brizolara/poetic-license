@@ -1,0 +1,21 @@
+Este material é coberto pela Licença Poética 1.0, contendo então o convite ético-estético de Francisco Bentois: compartilhar da semente à sombra. O objetivo é incentivar o fluxo de compartilhamento de materiais e processos criativos de forma a incentivar aglutinações cada vez mais criativas, íntimas, sinergéticas e ricas em recursos - ou seja, férteis para constituir culturas pujantes.
+
+O material ou processo criativo
+pode ser de qualquer tipo, em qualquer estágio de desenvolvimento e de qualquer complexidade.
+Exemplos: um instrumento musical novo; uma sequência de passos para obter um efeito visual - ou sonoro, ou cênico...; uma partitura; uma técnica de mixagem; um software novo ou uma modificação; uma ferramenta; um procedimento composicional; um áudio; uma imagem; um algoritmo; um projeto de vídeo/áudio/outra mídia completo com seus parâmetros, recursos de mídia e softwares auxiliares inclusos e pronto para uso; um mapa de improvisação...
+
+Você que vai usar este material em algum trabalho
+está convidado e fortemente incentivado à ética de não ficar só no seu uso, mas também convidar o autor do material/processo a participar do trabalho como artista em algum grau ou então estabelecer alguma parceria relacionada.
+Exemplos: ao usar um patch de Pure Data na gravação de uma música você convida o autor do patch a gravar um instrumento nela ou a participar da mesma. Ou você inclui dentro do seu álbum em questão uma música composta pelo autor do material/processo. Ou você convida o autor a co-criar um novo trabalho.
+Além disso, você também está convidado a *citar fortemente* o autor quando fizer uso do material. Por citar fortemente entenda-se divulgar o autor na medida do razoável. Por exemplo, ao gravar em vídeo uma apresentação usando um processo improvisacional, você pode fornecer um hyperlink para o site do autor desse processo.
+
+As implicações espirituais do descumprimento da ética descrita acima ainda são desconhecidas da Ciência.
+
+Você pode modificar este material
+à vontade em todo ou em parte, incluindo obrigatoriamente uma cópia desta licença e a atribuição do autor. Se essa modificação ela própria constituir-se em material artístico, se aplica também o recém-citado convite ético-estético de Bentois.
+
+Qualquer tipo de uso deste material implica na atribuição do autor e inclusão de uma cópia desta licença, informados de maneira clara no material de apresentação do trabalho - exemplos: verso de mídia física, texto de descrição de vídeo, créditos de obra audiovisual.
+
+Esta licença não permite a comercialização do material como um todo ou na forma de uma parte autônoma, embora não vede sua incorporação em materiais comerciais derivados, respeitando os termos da licença.
+
+O autor não deve nenhuma garantia ou responsabilidade em relação ao uso do material e eventuais consequências desse uso.
